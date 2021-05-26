@@ -1,0 +1,25 @@
+body, html {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+section{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 30%;
+  height: 40px;
+}
+
+main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+#whichTurn{
+  font-size: 30px;
+}
